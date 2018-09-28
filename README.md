@@ -1,17 +1,17 @@
 # WEB SPIDER
+------>[中文](https://github.com/UpsideJin/Web_Spider/blob/master/README_CN.md)
 ## Program Language
 + python 3.7
-
 ## Dependencies
 
-+ ![Scarpy](https://scrapy.org/)
-+ ![Redis](https://redis.io/)
-+ ![lxml](https://lxml.de/)(Xpath)
-+ ![NumPy](http://www.numpy.org/)
-+ ![MongoDB](https://www.mongodb.com/)
-+ ![PyChart](https://github.com/Infinite-Code/PyChart)
-+ ![OpenCV](https://opencv.org/)
-+ ![fake-useragent](https://github.com/hellysmile/fake-useragent)
++ [Scarpy](https://scrapy.org/)
++ [Redis](https://redis.io/)
++ [lxml](https://lxml.de/)(Xpath)
++ [NumPy](http://www.numpy.org/)
++ [MongoDB](https://www.mongodb.com/)
++ [PyChart](https://github.com/Infinite-Code/PyChart)
++ [OpenCV](https://opencv.org/)
++ [fake-useragent](https://github.com/hellysmile/fake-useragent)
 
 ## Milestones
 

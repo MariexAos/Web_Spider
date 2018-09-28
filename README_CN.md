@@ -1,13 +1,13 @@
 # 爬虫
 ## 环境依赖
-+ ![Scarpy](https://scrapy.org/)
-+ ![Redis](https://redis.io/)
-+ ![lxml](https://lxml.de/)(Xpath)
-+ ![NumPy](http://www.numpy.org/)
-+ ![MongoDB](https://www.mongodb.com/)
-+ ![PyChart](https://github.com/Infinite-Code/PyChart)
-+ ![OpenCV](https://opencv.org/)
-+ ![fake-useragent](https://github.com/hellysmile/fake-useragent)
++ [Scarpy](https://scrapy.org/)
++ [Redis](https://redis.io/)
++ [lxml](https://lxml.de/)(Xpath)
++ [NumPy](http://www.numpy.org/)
++ [MongoDB](https://www.mongodb.com/)
++ [PyChart](https://github.com/Infinite-Code/PyChart)
++ [OpenCV](https://opencv.org/)
++ [fake-useragent](https://github.com/hellysmile/fake-useragent)
 
 ## 计划
 
@@ -20,8 +20,8 @@ Apache -> 爬虫
 ```
 1.复习 html+css 基本语法 (静态网页)
 2.复习 vue.js/node.js (动态网页)
-    ![SignLite](https://github.com/Grenzedazu/SignLite)
-    ![外包项目—部分代码]（https://github.com/Grenzedazu/Web_outsource）
+    [SignLite](https://github.com/Grenzedazu/SignLite)
+    [外包项目—部分代码]（https://github.com/Grenzedazu/Web_outsource）
 2. 复习基本Python语法
 3.request/ds4 -> Scarpy(依赖库改变)
 ```
