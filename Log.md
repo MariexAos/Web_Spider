@@ -15,3 +15,9 @@ scrapy commands:
 for more commands use "man conda/scrapy"
 
 ```
+* 10/05/2018
+```
+#create scrapy crawlers
+#refactor the demo
+made the first baidu spider
+```
